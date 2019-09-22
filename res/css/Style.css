@@ -20,7 +20,7 @@ ol {
 }
 
 .text {
-  color: green;
+  color: #2e2ee6;
 }
 
 .grades {
@@ -93,7 +93,7 @@ footer {
   width: 100%;
   height: 120px;
   text-align: center;
-  background-color: #ffff00;
+  background-color: #bbbbff;
   padding-top: 10px;
   margin-top: 50px;
 }
