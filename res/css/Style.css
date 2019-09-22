@@ -15,7 +15,7 @@ ol {
 }
 
 #welcome {
-  color: green;
+  color: darkred;
   text-align: center;
 }
 
@@ -35,15 +35,15 @@ ol {
 }
 
 .border {
-  border: 3px solid green;
+  border: 3px solid lightgrey;
 }
 
 .name {
-  color: red;
+  color: darkred;
 }
 
 ol li.name {
-  color: blue;
+  font-weight: bold;
 }
 
 li:first-of-type + li {
@@ -51,8 +51,7 @@ li:first-of-type + li {
 }
 
 ol li:first-child {
-  margin-top: 20px;
-  color: darkred;
+  margin-top: 20px;  
 }
 
 section {
